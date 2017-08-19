@@ -38,6 +38,10 @@ fun to write as I quickly found single-core choke points I had to work around.
 This is mainly for small sets of metadata that will be changed on multiple
 machines and synced up later.
 
+[gastly](https://github.com/gholt/gastly) - Simplistic Go source file rewriter.
+I use this now instead of my previous project `got` whenever I need "generics"
+with Go.
+
 [got](https://github.com/gholt/got) - Go Templating for `go generate`. Quick
 and simple tool I've used when I need "generics".
 
