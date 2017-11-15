@@ -62,7 +62,7 @@ hopefully more over time.
 translate human-typed dates and times into machine time.Times, and back. It has
 fun things in it like NearDateString that tries to reduce the verbosity of a
 date and time the closer it is to now (or another reference time), and
-TranslateRelativeDate that let's you use phrases like "3 weeks from now".
+TranslateRelativeDate that lets you use phrases like "3 weeks from now".
 
 [brimio](https://github.com/gholt/brimio) - Has a checksummed reader,writer and
 a random data reader.
