@@ -103,13 +103,13 @@ Grow).
 object storage system much like S3. It was one of the two original products
 that started OpenStack.
 
-[hummingbird](https://github.com/troubling/hummingbird") - A rewrite of
+[hummingbird](https://github.com/troubling/hummingbird) - A rewrite of
 OpenStack Swift in Go, with some cruft left out, and probably some added we
 didn't mean to. We're aiming for more speed and simpler deployments. Go is much
 better with concurrency and a rewrite lets you apply a lot of lessons you've
 learned the first time around.
 
-[cfs](https://github.com/getcfs/megacfs") - An R&D project where we were making
+[cfs](https://github.com/getcfs/megacfs) - An R&D project where we were making
 a distributed file system, think Swift or Hummingbird but mountable like a
 local hard drive, or think NAS. Unfortunately, company direction changed and we
 got canceled, but we had it to a working prototype stage, learned a lot, and
